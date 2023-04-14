@@ -1,0 +1,12 @@
+/* .card{
+    height: 400px;
+} */
+.card-header{
+    height: 170px;
+}
+.card-body{
+    height: 170px;
+}
+.card-footer{
+    height: 60px;
+}
